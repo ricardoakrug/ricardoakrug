@@ -14,6 +14,14 @@ I'm also the kind of lazy person who will happily spend 15 hours automating a re
 - ✍️ Writing at [ricardokrug.com.br](https://ricardokrug.com.br)
 - 🤖 Automating my own development workflow with AI agents
 
+## Latest writing
+
+<!-- BLOG-POSTS:START -->
+- [Make your business report to you](https://ricardokrug.com.br/en/blog/one-morning-message) · Oct 20, 2026
+- [90 Minutes and a Lunch: How AI Is Really Regulated](https://ricardokrug.com.br/en/blog/rule-versus-discretion) · Oct 16, 2026
+- [How I Use AI on This Blog](https://ricardokrug.com.br/en/blog/welcome-world) · Oct 12, 2026
+<!-- BLOG-POSTS:END -->
+
 ## How I got here
 
 Although I've always been a technologist at heart, my background is in research and teaching. I earned my master's at the Universidade de São Paulo, where I focused on philosophy of science, particularly questions of method: how we come to know something, how we investigate it, and where the limits of that knowledge are.
