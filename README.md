@@ -1,4 +1,6 @@
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/header-mobile-dark.png">
+  <source media="(max-width: 600px)" srcset="assets/header-mobile-light.png">
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.png">
   <img src="assets/header-light.png" width="100%" alt="Ricardo Krug, co-founder and tech lead at Desio: I'll happily spend 15 hours automating a 15-minute task so nobody has to do it again.">
 </picture>
