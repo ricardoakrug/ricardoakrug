@@ -1,6 +1,9 @@
-# Hi, I'm Ricardo!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.png">
+  <img src="assets/header-light.png" width="100%" alt="Ricardo Krug, co-founder and tech lead at Desio: I'll happily spend 15 hours automating a 15-minute task so nobody has to do it again.">
+</picture>
 
-> *I'll happily spend 15 hours automating a 15-minute task so nobody has to do it again.*
+# Hi, I'm Ricardo!
 
 I'm co-founder and technical lead at [Desio](https://desio.app). We are building tools for hospitality businesses to manage their online presence, operations, and customer relationships.
 
